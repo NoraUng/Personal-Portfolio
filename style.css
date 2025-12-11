@@ -229,7 +229,6 @@ nav .right a span {
 }
 
 .education-section .group .person-details img {
-  /* aspect-ratio: 1 / 1; */
   width: 250px;
   object-fit: cover;
   border-radius: 30%;
